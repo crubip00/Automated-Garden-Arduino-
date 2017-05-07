@@ -3,6 +3,7 @@
 1. Create an Arduino automated system for water the plants according specific levels of soil moisture and collect the data for futher improvements
 
 2. Parts:
+
   2.1 Arduino. 
   2.2 Sensors. (soil moisture, temperature, water level)
   2.3 Resistors.
@@ -12,6 +13,7 @@
   
   
   3. Steps.
+  
     3.1 Create the PID (Project Initiation Documentation) and present to the client.
       3.1.1 Make the client request changes after the presentation of the PID and before start the project development.
     3.2 Buy the parts.
